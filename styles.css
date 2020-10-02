@@ -18,6 +18,10 @@ footer{
     grid-template-columns: 3fr 1fr;
 }
 
+a:hover{
+    color: #99fa99;
+}
+
 header h1{    
     color: #99fa99;
     font: 50px latoregular;
